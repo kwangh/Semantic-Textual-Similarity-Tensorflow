@@ -4,6 +4,7 @@ SICK train/test data set, Tensorflow Siamese Network, Semantic Textual Similarit
 # code
 ## Tensorflow_stsrnn.ipynb
 for training and early stop
+
 extension of Li, Jiwei, and Eduard H. Hovy. "A Model of Coherence Based on Distributed Sentence Representation." EMNLP. 2014.
 code: https://web.stanford.edu/~jiweil/Code.html
 
